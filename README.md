@@ -2,6 +2,7 @@
 
 <img width="1919" height="882" alt="Screenshot 2026-01-29 014304" src="https://github.com/user-attachments/assets/fa3e8a20-8da6-4e3a-8612-81d0953e7d8d" />
 
+You can try the projects:- https://spam-detection-classifier-byshalini.streamlit.app/
 This project is an **end-to-end Machine Learning application** that classifies email/SMS messages as **Spam** or **Ham (Not Spam)**. The project follows a clean, structured pipeline from problem understanding to model deployment.
 
 ---
